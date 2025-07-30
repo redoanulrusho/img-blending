@@ -3,7 +3,7 @@ import numpy as np
 import streamlit as st
 from PIL import Image
 
-st.title("Image Blender App ")
+st.title("Image Blender App By RUSHO")
 
 # Upload two images
 file1 = st.file_uploader("Upload First Image", type=["jpg", "png"])
